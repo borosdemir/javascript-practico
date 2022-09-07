@@ -15,7 +15,7 @@ function toggleDesktopMenu () {
 
 
 function toggleMobileMenu () {
-    menuHamIcon.classList.toggle('inactive');
+    mobileMenu.classList.toggle('inactive');
     console.log('inactive')
 
 }
